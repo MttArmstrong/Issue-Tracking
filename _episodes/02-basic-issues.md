@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Basic Issue Tracking"
 teaching: 0
 exercises: 0
 questions:
@@ -12,9 +12,8 @@ keypoints:
 
 ## Outline
 
-- Introduce Issues Tracking as a concept
-- Why issue tracking is useful / important
-- Show GitHub Issue Tracker and some others (Jira, GitLab)
+- The Basics of GitHub Issues
+- Making a blank issue
 
 {% include links.md %}
 

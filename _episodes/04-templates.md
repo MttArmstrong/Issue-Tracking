@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Issue Templates"
 teaching: 0
 exercises: 0
 questions:
@@ -12,9 +12,9 @@ keypoints:
 
 ## Outline
 
-- Introduce Issues Tracking as a concept
-- Why issue tracking is useful / important
-- Show GitHub Issue Tracker and some others (Jira, GitLab)
+- Make templates
+- Assign labels to templates
+- Make "go somewhere else" non-templates (links to other sites)
 
 {% include links.md %}
 

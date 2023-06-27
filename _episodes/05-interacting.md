@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Interacting with Issues"
 teaching: 0
 exercises: 0
 questions:
@@ -12,9 +12,11 @@ keypoints:
 
 ## Outline
 
-- Introduce Issues Tracking as a concept
-- Why issue tracking is useful / important
-- Show GitHub Issue Tracker and some others (Jira, GitLab)
+- Commenting
+- Linking to other issues/PRs
+- Adding to project boards
+- Closing (directly or via PRs)
+- EXTRA: Saved replies
 
 {% include links.md %}
 
