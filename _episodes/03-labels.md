@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Labelling Issues"
 teaching: 0
 exercises: 0
 questions:
@@ -12,9 +12,9 @@ keypoints:
 
 ## Outline
 
-- Introduce Issues Tracking as a concept
-- Why issue tracking is useful / important
-- Show GitHub Issue Tracker and some others (Jira, GitLab)
+- Make labels
+- Assign labels
+- Filter by labels
 
 {% include links.md %}
 
