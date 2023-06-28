@@ -1,20 +1,60 @@
 ---
 title: "Introduction"
-teaching: 0
-exercises: 0
+teaching: 10
+exercises: 5
 questions:
-- "Key question (FIXME)"
+- "What is issue tracking?"
+- "Why is issue tracking useful?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Understand the purpose and benefits of issue trackers"
+- "Become familiar with GitHub Issues"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Issue tracking is the process of monitoring problems and requests for a software product."
+- "Issue tracking enables a software development team to capture, organize, and manage work collaboratively."
 ---
 
-## Outline
+## What is Issue Tracking?
 
-- Introduce Issues Tracking as a concept
-- Why issue tracking is useful / important
-- Show GitHub Issue Tracker and some others (Jira, GitLab)
+Issue tracking is an activity that happens as part of Project Management. In
+this activity, a record is made of bugs, enhancements, and requests in such
+a way that the team is able to view and access the list of work to be
+done.
+
+Issues are used to collaborate, solve problems, and plan work, which is 
+enabled by software tools such as GitLab issues, Jira story boards, and GitHub issues.
+
+![Collaborative tracking in the public eye]({{ page.root }}/fig/issue_tracking_intro.png)
+
+Issue trackers can be internal (team-facing) or external (user-facing). In
+this lesson, students will learn about issue tracking through the use of GitHub
+Issues.
+
+## The Benefits of Issue Tracking
+
+Issue tracking has numerous benefits. Some of the main ones are:
+
+- _Visibility_: Work to be done is captured in one location where all team members can access it
+- _Collaboration_: Issue trackers enable good project collaboration. Work can be captured, oranized, managed, and discussed in a single location
+- _Transparency_: If the issue tracking system is user-facing, users can see the status of work completed and add more information
+
+
+## GitHub Issues
+
+Numerous different issue tracking systems exist - both commercial and open-source,
+integrated and stand-alone.
+
+GitHub integrates issue tracking into their version control system. Every project
+on GitHub can enable an integrated issue tracker.
+
+![INTERSECT training repository navigation bar]({{ page.root }}/fig/intersect-issues.png)
+
+> ## Browsing open issues
+>
+> Navigate to [https://github.com/spack/spack](https://github.com/spack/spack) and find the open issues.
+> 
+> How many issues are currently open? How many have been closed?
+>
+{:.challenge}
 
 {% include links.md %}
 
