@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-teaching: 10
+teaching: 5
 exercises: 5
 questions:
 - "What is issue tracking?"
@@ -34,7 +34,7 @@ Issues.
 Issue tracking has numerous benefits. Some of the main ones are:
 
 - _Visibility_: Work to be done is captured in one location where all team members can access it
-- _Collaboration_: Issue trackers enable good project collaboration. Work can be captured, oranized, managed, and discussed in a single location
+- _Collaboration_: Issue trackers enable good project collaboration. Work can be captured, organized, managed, and discussed in a single location
 - _Transparency_: If the issue tracking system is user-facing, users can see the status of work completed and add more information
 
 
