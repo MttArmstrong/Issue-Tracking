@@ -46,13 +46,31 @@ integrated and stand-alone.
 GitHub integrates issue tracking into their version control system. Every project
 on GitHub can enable an integrated issue tracker.
 
-![INTERSECT training repository navigation bar]({{ page.root }}/fig/intersect-issues.png)
+![INTERSECT training repository navigation bar]({{ page.root }}/fig/intersect-nav.png)
+
+To access a repository's issues, simply navigate to the repository root
+page and click on "Issues" in the navigation bar. This will take you to the
+page of all "Open" issues.
+
+![INTERSECT training repository issues pages]({{ page.root }}/fig/intersect-issues.png)
+
+Click on an issue to open it and read its details, plus any discussion
+on that issue.
+
+![INTERSECT training repository issue 13 details]({{ page.root }}/fig/intersect-issue-13.png)
+
+You can also change the default filter on the Issues page by status ("Open" or
+"Closed"), author, and more.
+
+![Issue top-bar filter options]({{ page.root }}/fig/intersect-filter.png)
 
 > ## Browsing open issues
 >
-> Navigate to [https://github.com/spack/spack](https://github.com/spack/spack) and find the open issues.
+> Navigate to [https://github.com/spack/spack](https://github.com/spack/spack) and find the issues page.
 > 
-> How many issues are currently open? How many have been closed?
+> * How many issues are currently open?
+> * How many have been closed?
+> * How many labels are there?
 >
 {:.challenge}
 
