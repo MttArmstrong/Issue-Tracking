@@ -1,5 +1,5 @@
 ---
-title: "Interacting with Issues"
+title: "(EXTRA) Advanced Issue Tracking"
 teaching: 0
 exercises: 0
 questions:
