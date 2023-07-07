@@ -3,9 +3,10 @@ title: "(EXTRA) Advanced Issue Tracking"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What other things can you do with GitHub Issues?"
+- "How do issues help with collaboration?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Learn advanced features of GitHub Issues."
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---

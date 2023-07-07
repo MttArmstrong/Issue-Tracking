@@ -1,7 +1,7 @@
 ---
 title: "Issue Templates"
-teaching: 0
-exercises: 0
+teaching: 5
+exercises: 10
 questions:
 - "Key question (FIXME)"
 objectives:
