@@ -112,7 +112,7 @@ that have that label applied.
 You can select multiple labels or use the hints at the bottom of the
 "Labels" dropdown to do more advanced filtering, such as exclusion.
 
-> ## 
+> ## Practice Filtering
 >
 > Navigate to [https://github.com/spack/spack](https://github.com/spack/spack) and find the issues page.
 > 
