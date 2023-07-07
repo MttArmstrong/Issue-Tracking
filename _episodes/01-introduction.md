@@ -64,7 +64,7 @@ You can also change the default filter on the Issues page by status ("Open" or
 
 ![Issue top-bar filter options]({{ page.root }}/fig/intersect-filter.png)
 
-> ## Browsing open issues
+> ## Browsing Open Issues
 >
 > Navigate to [https://github.com/spack/spack](https://github.com/spack/spack) and find the issues page.
 > 
