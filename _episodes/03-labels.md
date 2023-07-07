@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Learn how to use labels for GitHub issues."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Labelling issues can help with organization and filtering."
 ---
 
 ## GitHub Labels
