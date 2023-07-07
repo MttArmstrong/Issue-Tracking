@@ -9,13 +9,7 @@ reminders, or any other plethora of options. Software development is no
 different.
 
 In this lesson, students will learn how to get started with GitHub Issues
-and move into advanced topics such as labels, templates, and project boards.
-
-
-> ## Learning Objectives
-> 
-> * FIXME
-{: .keypoints}
+and move into advanced topics such as labels and templates.
 
 > ## Prerequisites
 >
