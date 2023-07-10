@@ -55,7 +55,7 @@ Each label has three attributes:
 
 > ## Label Maker
 >
-> Navigate to [our practice repository's label page](#).
+> Navigate to your practice repository's label page.
 > 
 > * Add a new label for `discussion`
 > * Remove the label for `good first issue`
@@ -87,7 +87,7 @@ your preferred label(s).
 
 > ## Stick the Label
 >
-> Navigate to [our practice repository's issue page](#).
+> Navigate to your practice repository's issue page.
 > 
 > * Create a new issue entitled "[YOUR NAME]'s label issue"
 > * Add the `discussion` label

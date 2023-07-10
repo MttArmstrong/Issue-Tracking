@@ -37,7 +37,7 @@ Once an issue is filled out, the "Submit new issue" button will highlight.
 
 > ## Open a New Issue
 >
-> Navigate to [our practice repository's issue page](#).
+> Navigate to your practice repository's issue page.
 > 
 > * Open a new issue titled "[YOUR NAME]'s First Issue"
 > * In the "Write" section, make a heading entitled "Description"
