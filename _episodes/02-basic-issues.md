@@ -19,11 +19,11 @@ keypoints:
 To open a new issue, navigate to the issue page. Here you will see a green
 "New issue" button. Click this to start the creation of a new issue.
 
-![New issue button circled in red]({{ page.root }}/fig/new-issue.png)
+![New issue button circled in red]({{ page.root }}/fig/new-issue.png){:width="75%"}
 
 This will load a new page with an empty issue.
 
-![Empty issue page after clicking new issue button]({{ page.root }}/fig/empty-issue.png)
+![Empty issue page after clicking new issue button]({{ page.root }}/fig/empty-issue.png){:width="75%"}
 
 A new issue has several parts:
 
@@ -33,7 +33,7 @@ A new issue has several parts:
 
 Once an issue is filled out, the "Submit new issue" button will highlight.
 
-![Submit new issue button highlighted and available to press]({{ page.root }}/fig/submit-new-issue.png)
+![Submit new issue button highlighted and available to press]({{ page.root }}/fig/submit-new-issue.png){:width="75%"}
 
 > ## Open a New Issue
 >
@@ -64,7 +64,7 @@ On the right-hand side, there are more options that can be modified.
 
 There are many interactions available on an open issue.
 
-![A basic open issue based on the exercise above]({{ page.root }}/fig/solution-open-issue-exercise.png)
+![A basic open issue based on the exercise above]({{ page.root }}/fig/solution-open-issue-exercise.png){:width="75%"}
 
 The most basic interaction with an open issue is leaving a comment. This is
 how you can interact with the issue author, the assignee, and others who
@@ -73,7 +73,7 @@ have commented on or subscribed to the issue.
 Simply click in the comment box at the bottom of the issue, type whatever
 you'd like, and click "Comment."
 
-![Add a comment box on a new issue]({{ page.root }}/fig/add-issue-comment.png)
+![Add a comment box on a new issue]({{ page.root }}/fig/add-issue-comment.png){:width="75%"}
 
 > ## Close by mistake?
 > Did you accidentally click "Close with comment"? No worries, you can easily
@@ -100,14 +100,14 @@ discussion, and now we don't want it cluttering up our issue list.
 
 Closing an issue is simple - just click the "Close issue" button.
 
-![Close issue button with no additional features]({{ page.root }}/fig/close-basic-issue.png)
+![Close issue button with no additional features]({{ page.root }}/fig/close-basic-issue.png){:width="75%"}
 
 If you start to type in the comment box, this will change into a "Close with 
 comment" button.
 
 The dropdown to the right shows two more options:
 
-![Close issue button additional options]({{ page.root }}/fig/close-issue-options.png)
+![Close issue button additional options]({{ page.root }}/fig/close-issue-options.png){:width="75%"}
 
 > ## Issue Completed
 >

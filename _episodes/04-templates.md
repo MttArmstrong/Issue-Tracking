@@ -31,36 +31,36 @@ Templates. This can be enabled through the graphical user interface.
 
 Click on the "Settings" tab in your repository.
 
-![GitHub Settings tab]({{ page.root }}/fig/github-settings.png)
+![GitHub Settings tab]({{ page.root }}/fig/github-settings.png){:width="75%"}
 
 It will load to the "General settings" page, under which there is a "Feature"
 section. Here you will see "Issues" (already checkmarked) with a button to
 "Set up templates."
 
-![GitHub settings features section, set up templates button]({{ page.root }}/fig/set-up-templates.png)
+![GitHub settings features section, set up templates button]({{ page.root }}/fig/set-up-templates.png){:width="75%"}
 
 This will take you to a mostly blank screen on which there is an "Add template"
 dropdown with several options.
 
-![Add template dropdown with bug report, feature request, and custom template]({{ page.root }}/fig/add-template-dropdown.png)
+![Add template dropdown with bug report, feature request, and custom template]({{ page.root }}/fig/add-template-dropdown.png){:width="75%"}
 
 From this list, select "Bug report." You will now see that the "Bug report"
 template shows up in the list of templates. Click "Preview and edit" to view
 the new template.
 
-![Preview of default bug report template]({{ page.root }}/fig/bug-report-default-template.png)
+![Preview of default bug report template]({{ page.root }}/fig/bug-report-default-template.png){:width="75%"}
 
 For now, we will leave this template as-is. To apply the new template to your
 repository, click the "Propose changes" button at the top of the page. This
 will load a commit message dialog box. Put whatever you desire in the
 commit message dialog box and commit the changes to your main branch.
 
-![Propose changes commit message dialog]({{ page.root }}/fig/propose-changes-templates.png)
+![Propose changes commit message dialog]({{ page.root }}/fig/propose-changes-templates.png){:width="75%"}
 
 If we navigate to the Issues page now and click "New issue", the template
 is now available in our options.
 
-![New issue page with a template created]({{ page.root }}/fig/new-issue-template-list.png)
+![New issue page with a template created]({{ page.root }}/fig/new-issue-template-list.png){:width="75%"}
 
 > ## New Feature
 >
@@ -82,7 +82,7 @@ When we created our first template, GitHub did the setup for us. If you
 navigate back to your main page, you will see a new
 directory has been created.
 
-![New .github directory in main repository]({{ page.root }}/fig/new-dot-github-dir.png)
+![New .github directory in main repository]({{ page.root }}/fig/new-dot-github-dir.png){:width="75%"}
 
 This new directory is where all the issue templates are located. The directory
 currently has two files: `bug_report.md` and `feature_request.md`. We are going
@@ -136,7 +136,7 @@ formatting the template using Markdown.
 
 We now have three issue templates available for use.
 
-![New issue page with three templates available]({{ page.root }}/fig/three-issue-template-list.png)
+![New issue page with three templates available]({{ page.root }}/fig/three-issue-template-list.png){:width="75%"}
 
 ## Incorporate External Links
 
@@ -177,7 +177,7 @@ that will show up in the template chooser.
 
 Our template chooser now has our three templates and a link to Google.
 
-![Template chooser with custom external link]({{ page.root }}/fig/ask-google-template.png)
+![Template chooser with custom external link]({{ page.root }}/fig/ask-google-template.png){:width="75%"}
 
 And that's all, folks! You now know much more about GitHub Issues.
 

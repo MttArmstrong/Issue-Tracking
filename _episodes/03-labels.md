@@ -31,9 +31,9 @@ From [GitHub's official documentation](https://docs.github.com/en/issues/using-l
 
 These labels can be viewed from the Issues and Pull Requests pages.
 
-![The issue page with the labels option highlighted]({{ page.root }}/fig/issues-labels.png)
+![The issue page with the labels option highlighted]({{ page.root }}/fig/issues-labels.png){:width="75%"}
 
-![The default set of labels]({{ page.root }}/fig/default-labels.png)
+![The default set of labels]({{ page.root }}/fig/default-labels.png){:width="75%"}
 
 As you can see, several of these are aimed towards large, open-source communities
 with many collaborators. This is not always the case in Research Software
@@ -43,7 +43,7 @@ Engineering, however, so we will need to modify these.
 
 Labels can be added, edited, or deleted from the labels page.
 
-![Label actions highlighted]({{ page.root }}/fig/label-highlights.png)
+![Label actions highlighted]({{ page.root }}/fig/label-highlights.png){:width="75%"}
 
 Each label has three attributes:
 
@@ -51,7 +51,7 @@ Each label has three attributes:
 * Description
 * Color (Hex code)
 
-![Label attributes - name, description, color]({{ page.root }}/fig/label-attributes.png)
+![Label attributes - name, description, color]({{ page.root }}/fig/label-attributes.png){:width="75%"}
 
 > ## Label Maker
 >
@@ -73,17 +73,17 @@ From the main Issues page, simply checkmark the issue, hit the "Label"
 dropdown, select your preferred label(s), and click outside of the
 dropdown.
 
-![Apply Labels from the main Issues page]({{ page.root }}/fig/apply-labels-issue-page.png)
+![Apply Labels from the main Issues page]({{ page.root }}/fig/apply-labels-issue-page.png){:width="75%"}
 
 To apply within a single issue, click on the issue to open it. Then you
 will see the "Labels" option on the right-hand side.
 
-![Highlighted Labels option within a single issue]({{ page.root }}/fig/label-option-in-issue.png)
+![Highlighted Labels option within a single issue]({{ page.root }}/fig/label-option-in-issue.png){:width="75%"}
 
 Click on "Labels". A dropdown will appear in which you can select or deselect
 your preferred label(s).
 
-![Label dropdown within a single issue]({{ page.root }}/fig/label-dropdown-in-issue.png)
+![Label dropdown within a single issue]({{ page.root }}/fig/label-dropdown-in-issue.png){:width="75%"}
 
 > ## Stick the Label
 >
@@ -104,7 +104,7 @@ To filter, navigate to the main Issues page. With no issue selected, click the
 "Labels" dropdown again. You'll see that this dropdown now says "Filter by
 label" rather than "Apply labels."
 
-![Filter by label dropdown on main Issue page]({{ page.root }}/fig/filter-by-label.png)
+![Filter by label dropdown on main Issue page]({{ page.root }}/fig/filter-by-label.png){:width="75%"}
 
 Click on a label in the list to filter by it. GitHub will only show issues
 that have that label applied.
