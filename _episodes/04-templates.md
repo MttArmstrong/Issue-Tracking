@@ -42,7 +42,7 @@ section. Here you will see "Issues" (already checkmarked) with a button to
 This will take you to a mostly blank screen on which there is an "Add template"
 dropdown with several options.
 
-![Add template dropdown with bug report, feature request, and custom template]({{ page.root }}/fig/add-template-dropdown.png){:width="75%"}
+![Add template dropdown with bug report, feature request, and custom template]({{ page.root }}/fig/add-template-dropdown.png){:width="40%"}
 
 From this list, select "Bug report." You will now see that the "Bug report"
 template shows up in the list of templates. Click "Preview and edit" to view

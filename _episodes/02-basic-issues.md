@@ -107,7 +107,7 @@ comment" button.
 
 The dropdown to the right shows two more options:
 
-![Close issue button additional options]({{ page.root }}/fig/close-issue-options.png){:width="75%"}
+![Close issue button additional options]({{ page.root }}/fig/close-issue-options.png)
 
 > ## Issue Completed
 >

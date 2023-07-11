@@ -23,7 +23,7 @@ done.
 Issues are used to collaborate, solve problems, and plan work, which is 
 enabled by software tools such as GitLab issues, Jira story boards, and GitHub issues.
 
-![Collaborative tracking in the public eye]({{ page.root }}/fig/issue_tracking_intro.png){:width="75%"}
+![Collaborative tracking in the public eye]({{ page.root }}/fig/issue_tracking_intro.png)
 
 Issue trackers can be internal (team-facing) or external (user-facing). In
 this lesson, students will learn about issue tracking through the use of GitHub

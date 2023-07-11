@@ -83,7 +83,7 @@ will see the "Labels" option on the right-hand side.
 Click on "Labels". A dropdown will appear in which you can select or deselect
 your preferred label(s).
 
-![Label dropdown within a single issue]({{ page.root }}/fig/label-dropdown-in-issue.png){:width="75%"}
+![Label dropdown within a single issue]({{ page.root }}/fig/label-dropdown-in-issue.png){:width="40%"}
 
 > ## Stick the Label
 >
@@ -104,7 +104,7 @@ To filter, navigate to the main Issues page. With no issue selected, click the
 "Labels" dropdown again. You'll see that this dropdown now says "Filter by
 label" rather than "Apply labels."
 
-![Filter by label dropdown on main Issue page]({{ page.root }}/fig/filter-by-label.png){:width="75%"}
+![Filter by label dropdown on main Issue page]({{ page.root }}/fig/filter-by-label.png){:width="40%"}
 
 Click on a label in the list to filter by it. GitHub will only show issues
 that have that label applied.
