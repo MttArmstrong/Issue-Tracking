@@ -1,7 +1,5 @@
 ---
-layout: lesson
-root: .  # Is the only page that doesn't follow the pattern /:path/index.html
-permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
+site: sandpaper::sandpaper_site
 ---
 
 Everyone keeps track of their work. You may use post-it notes, calendar
@@ -11,12 +9,14 @@ different.
 In this lesson, students will learn how to get started with GitHub Issues
 and move into advanced topics such as labels and templates.
 
-> ## Prerequisites
->
-> * Basic understanding of git
-> * git (installed locally)
-> * GitHub account
-> * Copy of [INTERSECT Day 2 Template](https://github.com/INTERSECT-training/intersect-training-day2)
-{: .prereq}
+::::::::::::::::::::::::::::::::::::::::::  prereq
 
-{% include links.md %}
+## Prerequisites
+
+* Basic understanding of git
+* git (installed locally)
+* GitHub account
+* Copy of [INTERSECT Day 2 Template](https://github.com/INTERSECT-training/intersect-training-day2)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
