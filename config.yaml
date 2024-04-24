@@ -27,13 +27,13 @@ life_cycle: 'beta'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/mrmundt/issue-tracking'
+source: 'https://github.com/INTERSECT-training/Issue-Tracking/'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'mmundt@sandia.gov' 
+contact: 'icosden@princeton.edu'
 
 # Navigation ------------------------------------------------
 #
